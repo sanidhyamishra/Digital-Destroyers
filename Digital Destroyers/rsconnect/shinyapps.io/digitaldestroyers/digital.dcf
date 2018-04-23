@@ -1,0 +1,12 @@
+name: digital
+title:
+username:
+account: digitaldestroyers
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 325043
+bundleId: 1325465
+url: https://digitaldestroyers.shinyapps.io/digital/
+when: 1524060469.76472
+asMultiple: FALSE
+asStatic: FALSE
